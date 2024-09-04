@@ -1,6 +1,3 @@
-Claro, aquí tienes un `README.md` detallado que incluye información sobre ambos autores y otros aspectos importantes del proyecto:
-
-```markdown
 # RopaUrbana
 
 **RopaUrbana** es una aplicación de escritorio desarrollada en Python para la gestión de ventas y el manejo de inventario de productos de ropa urbana. Utiliza `customtkinter` para proporcionar una interfaz gráfica moderna y `Pillow` para la manipulación de imágenes. La aplicación permite realizar ventas, agregar productos, y consultar el inventario y las ventas realizadas.

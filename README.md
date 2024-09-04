@@ -28,4 +28,6 @@ pip install customtkinter Pillow
 python nombre_del_archivo.py
 
 Este archivo `README.md` proporciona una visión general del proyecto, instrucciones para su uso, y detalles sobre la estructura y las características de la aplicación. Asegúrate de actualizar la sección de "Uso" con el nombre correcto del archivo Python si es necesario.
-![Uploading Captura de pantalla 2024-09-04 160107.png…]()
+````
+
+![Captura de pantalla 2024-09-04 160107](https://github.com/user-attachments/assets/1d1e3079-075e-4baa-b62d-654e90d4df64)

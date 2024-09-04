@@ -1,27 +1,29 @@
 # RopaUrbana
 
-## Descripción
-
-**RopaUrbana** es una aplicación de escritorio desarrollada con Python utilizando `customtkinter` para gestionar la venta y el inventario de productos de ropa urbana. La aplicación permite al usuario realizar ventas, consultar el inventario, agregar nuevos productos y visualizar ventas realizadas. La interfaz está diseñada con un esquema de colores verde y blanco, y proporciona una experiencia de usuario intuitiva y moderna.
+**RopaUrbana** es una aplicación de escritorio desarrollada en Python que permite gestionar la venta de productos de ropa urbana. Utiliza `customtkinter` para crear una interfaz moderna y amigable, y `Pillow` para el manejo de imágenes. Esta aplicación está diseñada para ofrecer una experiencia intuitiva para el usuario final con funcionalidades como la venta de productos, gestión de inventario, y más.
 
 ## Características
 
-- **Interfaz Principal:** Muestra una vista general con imágenes de productos y botones para acceder a diferentes secciones.
-- **Vender Producto:** Permite registrar una venta ingresando el producto, cantidad, precio y total.
-- **Inventario:** Sección dedicada a la consulta y gestión del inventario (aún no implementada).
-- **Agregar Producto:** Permite añadir nuevos productos al sistema (aún no implementada).
-- **Ventas:** Muestra un historial de ventas (aún no implementada).
-- **Salir:** Cierra la aplicación.
+- **Interfaz Principal:** Pantalla inicial con título, imágenes de productos y botones para acceder a las diferentes funcionalidades.
+- **Venta de Productos:** Registro de ventas con campos para el producto, cantidad, precio y total.
+- **Gestión de Inventario:** Espacio destinado a la visualización y gestión del inventario (en desarrollo).
+- **Agregar Productos:** Permite añadir nuevos productos al sistema (en desarrollo).
+- **Historial de Ventas:** Visualización de las ventas realizadas (en desarrollo).
+- **Salir:** Opción para cerrar la aplicación.
 
 ## Requisitos
 
-- Python 3.6 o superior
-- `customtkinter`
-- `Pillow`
+Para ejecutar la aplicación, necesitas tener instaladas las siguientes dependencias:
 
-Para instalar las dependencias necesarias, puedes usar el siguiente comando:
+- **Python 3.6 o superior**
+- **`customtkinter`:** Una extensión de `tkinter` que permite crear interfaces más modernas.
+- **`Pillow`:** Librería para la manipulación de imágenes.
 
+Puedes instalar las dependencias necesarias usando pip:
 ```bash
+
+git clone https://github.com/tu_usuario/ropaurbana.git
+
 pip install customtkinter Pillow
 
 

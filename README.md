@@ -103,4 +103,6 @@ Este `README.md` proporciona una descripción completa del proyecto, detalla la 
 ````
 # Diagrama
 
-![Captura de pantalla 2024-09-04 160107](https://github.com/user-attachments/assets/2b259890-e3ae-466c-a84f-97940d346695)
+![Clase UML(1)](https://github.com/user-attachments/assets/76172072-9a42-4c52-9211-b8c44ab9f883)
+
+

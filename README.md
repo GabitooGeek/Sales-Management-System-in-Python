@@ -89,7 +89,6 @@ Este proyecto está licenciado bajo los términos de la [MIT License](https://op
 Para cualquier pregunta o soporte adicional, por favor contacta a los autores o abre un issue en el repositorio.
 
 ## Diagrama
-
-![Clase UML(1)](https://github.com/user-attachments/assets/76172072-9a42-4c52-9211-b8c44ab9f883)
+![240914_17h28m02s_screenshot](https://github.com/user-attachments/assets/ad331039-4993-4914-ba21-c1b168f0dcc0)
 
 

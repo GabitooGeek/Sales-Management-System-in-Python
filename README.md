@@ -1,6 +1,6 @@
 # RopaUrbana
 
-**RopaUrbana** es una aplicación de escritorio desarrollada en Python para la gestión de ventas y el manejo de inventario de productos de ropa urbana. Utiliza `customtkinter` para proporcionar una interfaz gráfica moderna y `Pillow` para la manipulación de imágenes. La aplicación permite realizar ventas, agregar productos, y consultar el inventario y las ventas realizadas.
+**RopaUrbana** es una aplicación de escritorio desarrollada en Python para la gestión de ventas y el manejo de inventario de productos de ropa. Utiliza `customtkinter` para proporcionar una interfaz gráfica moderna y `Pillow` para la manipulación de imágenes. La aplicación permite realizar ventas, agregar productos, y consultar el inventario y las ventas realizadas.
 
 ## Características
 
@@ -18,11 +18,14 @@ Para ejecutar la aplicación, debes tener instaladas las siguientes dependencias
 - **Python 3.6 o superior**
 - **`customtkinter`:** Extensión moderna de `tkinter` para interfaces gráficas.
 - **`Pillow`:** Librería para el manejo de imágenes.
+- **`mysql-connector-python`:** Librería para la conexión de la base de datos.
 
 Instala las dependencias necesarias utilizando pip:
 
 ```bash
-pip install customtkinter Pillow
+pip install customtkinter
+pip install mysql-connector-python
+pip install pillow
 ```
 
 ## Instalación y Ejecución
@@ -42,10 +45,8 @@ pip install customtkinter Pillow
 3. **Ejecuta el Proyecto:** Corre el archivo Python principal para iniciar la aplicación:
 
    ```bash
-   python nombre_del_archivo.py
+   python3 gestor_de_ventas.py
    ```
-
-   Reemplaza `nombre_del_archivo.py` con el nombre del archivo que contiene el código.
 
 ## Estructura del Código
 

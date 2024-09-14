@@ -1,6 +1,6 @@
-# RopaUrbana
+# Sales-Management-System-in-Python
 
-**RopaUrbana** es una aplicación de escritorio desarrollada en Python para la gestión de ventas y el manejo de inventario de productos de ropa. Utiliza `customtkinter` para proporcionar una interfaz gráfica moderna y `Pillow` para la manipulación de imágenes. La aplicación permite realizar ventas, agregar productos, y consultar el inventario y las ventas realizadas.
+**Sales-Management-System-in-Python** es una aplicación de escritorio desarrollada en Python para la gestión de ventas y el manejo de inventario de productos de ropa. Utiliza `customtkinter` para proporcionar una interfaz gráfica moderna y `Pillow` para la manipulación de imágenes. La aplicación permite realizar ventas, agregar productos, y consultar el inventario y las ventas realizadas.
 
 ## Características
 
@@ -33,7 +33,7 @@ pip install pillow
 1. **Clona el Repositorio:** Descarga el proyecto desde GitHub o clónalo usando git:
 
    ```bash
-   git clone https://github.com/tu_usuario/ropaurbana.git
+   https://github.com/GabitooGeek/Sales-Management-System-in-Python.git
    ```
 
 2. **Prepara las Imágenes:** Asegúrate de tener las siguientes imágenes en el mismo directorio que el archivo principal del proyecto:
@@ -80,15 +80,6 @@ El código está dividido en varias secciones clave:
 - **Gabriel Tellez:** Desarrollador principal, encargado de la implementación y diseño de la interfaz.
 - **Javier Murcia:** Co-desarrollador, colaborador en el diseño de la arquitectura y la funcionalidad del sistema.
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir al proyecto:
-
-1. Realiza un fork del repositorio.
-2. Crea una rama para tus cambios (`git checkout -b mi-rama`).
-3. Realiza los cambios y haz commit (`git commit -am 'Añadir una nueva funcionalidad'`).
-4. Envía un pull request.
-
 ## Licencia
 
 Este proyecto está licenciado bajo los términos de la [MIT License](https://opensource.org/licenses/MIT).
@@ -97,12 +88,7 @@ Este proyecto está licenciado bajo los términos de la [MIT License](https://op
 
 Para cualquier pregunta o soporte adicional, por favor contacta a los autores o abre un issue en el repositorio.
 
-```
-
-Este `README.md` proporciona una descripción completa del proyecto, detalla la estructura del código y las funcionalidades, e incluye información sobre los autores y cómo contribuir. Asegúrate de personalizar los enlaces y los nombres de archivo según sea necesario.
-
-````
-# Diagrama
+## Diagrama
 
 ![Clase UML(1)](https://github.com/user-attachments/assets/76172072-9a42-4c52-9211-b8c44ab9f883)
 

@@ -88,7 +88,7 @@ Este proyecto está licenciado bajo los términos de la [MIT License](https://op
 
 Para cualquier pregunta o soporte adicional, por favor contacta a los autores o abre un issue en el repositorio.
 
-## Diagrama
+## Diagrama ER
 ![240914_17h28m02s_screenshot](https://github.com/user-attachments/assets/ad331039-4993-4914-ba21-c1b168f0dcc0)
 
 

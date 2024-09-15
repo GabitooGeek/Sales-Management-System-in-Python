@@ -33,7 +33,7 @@ pip install pillow
 1. **Clona el Repositorio:** Descarga el proyecto desde GitHub o clónalo usando git:
 
    ```bash
-   https://github.com/GabitooGeek/Sales-Management-System-in-Python.git
+   git clone https://github.com/GabitooGeek/Sales-Management-System-in-Python.git
    ```
 
 2. **Prepara las Imágenes:** Asegúrate de tener las siguientes imágenes en el mismo directorio que el archivo principal del proyecto:

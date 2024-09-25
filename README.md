@@ -88,7 +88,7 @@ Este proyecto está licenciado bajo los términos de la [MIT License](https://op
 
 Para cualquier pregunta o soporte adicional, por favor contacta a los autores o abre un issue en el repositorio.
 
-## Diagrama ER
+## Diagrama de componentes
 ![diagrama](https://github.com/user-attachments/assets/a84ec4da-5d5b-443b-bcf3-9137a04099fa)
 
 
